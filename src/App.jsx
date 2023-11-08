@@ -1,4 +1,4 @@
-import Sidebar from './sidebar'
+import Sidebar from './Sidebar'
 import './App.css'
 import TotalCashFlow from './TotalCashFlow'
 import LineGraph from './LineGraph'
